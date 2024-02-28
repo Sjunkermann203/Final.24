@@ -1,3 +1,5 @@
+#Final Programming for Economists II Project
+#Group Members: Sam Sohrab Junkermann, Lain Calvo Carrasco, Vukasin Tolic, Vrushab Shekhar
 import random
 
 class SlotMachine:
